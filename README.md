@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @aharr1s
-- 👀 I’m interested in software development
+- 👋 Hi, I’m @aharr1s, but you can call me Asia
+- 👀 I’m interested in software development and AI integration
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on side projects in Java, JavaScript, C++. Python
 - 📫 How to reach me ig: @ilyasia__
